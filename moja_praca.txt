@@ -1,0 +1,5 @@
+
+wc -l plik.txt >> moja_praca.txt
+cat plik1 > plik2
+:%s/plik.txt/brzechwa.txt/g
+73
